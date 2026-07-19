@@ -1,0 +1,61 @@
+{
+  "updatedAt": 1,
+  "systems": [
+    {
+      "id": "s1",
+      "name": "Agência de Marketing",
+      "url": "https://marketing-vm.vercel.app/",
+      "desc": "Campanhas, conteúdo e gestão de marketing.",
+      "icon": "megaphone",
+      "color": "#FF6B4A"
+    },
+    {
+      "id": "s2",
+      "name": "VendaMais Creative OS",
+      "url": "https://vendamais-creative-os-km3l.vercel.app/",
+      "desc": "Sistema operacional criativo da VendaMais.",
+      "icon": "palette",
+      "color": "#A855F7"
+    },
+    {
+      "id": "s3",
+      "name": "Comitê Estratégico",
+      "url": "https://diretor-estrategico-chat.vercel.app/",
+      "desc": "Chat de apoio à decisão da diretoria.",
+      "icon": "compass",
+      "color": "#5B8DEF"
+    },
+    {
+      "id": "s4",
+      "name": "Radar Comercial",
+      "url": "https://radar.partnersvendamais.com.br/",
+      "desc": "Monitoramento de oportunidades comerciais.",
+      "icon": "radar",
+      "color": "#10B981"
+    },
+    {
+      "id": "s5",
+      "name": "Revenue Intelligence",
+      "url": "https://revenue-intelligence-vendamais.vercel.app/",
+      "desc": "Análise de receita e previsibilidade.",
+      "icon": "chart",
+      "color": "#06B6D4"
+    },
+    {
+      "id": "s6",
+      "name": "Whale Hunting",
+      "url": "https://revenue-intelligence-vendamais.vercel.app/",
+      "desc": "Prospecção de grandes contas.",
+      "icon": "target",
+      "color": "#F59E0B"
+    },
+    {
+      "id": "s7",
+      "name": "Radar AEO/GEO",
+      "url": "https://radar-geo-venda-mais.vercel.app/",
+      "desc": "Ranqueamento em buscadores e IA.",
+      "icon": "globe",
+      "color": "#EC4899"
+    }
+  ]
+}
