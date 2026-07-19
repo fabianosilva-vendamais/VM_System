@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1,
+  "updatedAt": 1784502090140,
   "systems": [
     {
       "id": "s1",
@@ -44,7 +44,7 @@
     {
       "id": "s6",
       "name": "Whale Hunting",
-      "url": "https://revenue-intelligence-vendamais.vercel.app/",
+      "url": "https://whale-hunting-campaign-builder.vercel.app/",
       "desc": "Prospecção de grandes contas.",
       "icon": "target",
       "color": "#F59E0B"
@@ -56,6 +56,46 @@
       "desc": "Ranqueamento em buscadores e IA.",
       "icon": "globe",
       "color": "#EC4899"
+    },
+    {
+      "id": "s1783728173189",
+      "name": "Sistema de Solicitação para MKT",
+      "url": "https://solicitacoes.partnersvendamais.com.br/",
+      "desc": "Pedidos MKT VendaMais",
+      "icon": "megaphone",
+      "color": "#F43F5E"
+    },
+    {
+      "id": "s1783824228919",
+      "name": "Radar Contatos",
+      "url": "https://radar-contatos.vercel.app/",
+      "desc": "Análise se a pessoa continua na empresa ou não.",
+      "icon": "search",
+      "color": "#64748B"
+    },
+    {
+      "id": "s1784252640312",
+      "name": "Gestão de Carteira VM",
+      "url": "https://gestao-carteira-vendamais.vercel.app/",
+      "desc": "BI Carteira VendaMais",
+      "icon": "chart",
+      "color": "#10B981"
+    },
+    {
+      "id": "s1784314702479",
+      "name": "Radar Lopas Conecta - Varejo Moveleiro",
+      "url": "https://raiox-lopas-conecta.vercel.app/",
+      "desc": "Diagnóstico participantes Lopas Conecta",
+      "icon": "rocket",
+      "color": "#F43F5E"
+    },
+    {
+      "id": "s1784493841267",
+      "name": "VM Pricing",
+      "url": "https://vm-pricing-intelligence.vercel.app/",
+      "desc": "Cálculo de preços de propostas",
+      "icon": "chart",
+      "color": "#22C55E"
     }
   ]
 }
