@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786152634074,
+  "updatedAt": 1786702954476,
   "systems": [
     {
       "id": "s1",
@@ -80,14 +80,6 @@
       "desc": "BI Carteira VendaMais",
       "icon": "chart",
       "color": "#10B981"
-    },
-    {
-      "id": "s1784314702479",
-      "name": "Radar Lopas Conecta - Varejo Moveleiro",
-      "url": "https://raiox-lopas-conecta.vercel.app/",
-      "desc": "Diagnóstico participantes Lopas Conecta",
-      "icon": "rocket",
-      "color": "#F43F5E"
     },
     {
       "id": "s1784493841267",
