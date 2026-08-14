@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786703119668,
+  "updatedAt": 1786703556973,
   "systems": [
     {
       "id": "s1",
@@ -88,6 +88,14 @@
       "desc": "Cálculo de preços de propostas",
       "icon": "chart",
       "color": "#22C55E"
+    },
+    {
+      "id": "s1786703256656",
+      "name": "Radar de Crescimento",
+      "url": "https://radar-crescimento-comercial-cegente.vercel.app/",
+      "desc": "VM / CEGENTE",
+      "icon": "target",
+      "color": "#5B8DEF"
     }
   ]
 }
