@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786703556973,
+  "updatedAt": 1787130929378,
   "systems": [
     {
       "id": "s1",
@@ -96,6 +96,14 @@
       "desc": "VM / CEGENTE",
       "icon": "target",
       "color": "#5B8DEF"
+    },
+    {
+      "id": "s1787130925425",
+      "name": "Sales Train Voice",
+      "url": "https://salestrain-voice.vercel.app/",
+      "desc": "Ferramenta de simulação de vendas",
+      "icon": "megaphone",
+      "color": "#A855F7"
     }
   ]
 }
