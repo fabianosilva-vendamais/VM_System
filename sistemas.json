@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787130929378,
+  "updatedAt": 1787489560196,
   "systems": [
     {
       "id": "s1",
@@ -76,7 +76,7 @@
     {
       "id": "s1784252640312",
       "name": "Gestão de Carteira VM",
-      "url": "https://gestao-carteira-vendamais.vercel.app/",
+      "url": "https://gestao-carteira-vendamais.vercel.app",
       "desc": "BI Carteira VendaMais",
       "icon": "chart",
       "color": "#10B981"
