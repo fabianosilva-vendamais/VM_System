@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787489560196,
+  "updatedAt": 1788604801181,
   "systems": [
     {
       "id": "s1",
@@ -104,6 +104,14 @@
       "desc": "Ferramenta de simulação de vendas",
       "icon": "megaphone",
       "color": "#A855F7"
+    },
+    {
+      "id": "s1788604786386",
+      "name": "VentureGTM OS",
+      "url": "https://venturegtm-os.vercel.app/",
+      "desc": "Go To Market",
+      "icon": "rocket",
+      "color": "#F43F5E"
     }
   ]
 }
