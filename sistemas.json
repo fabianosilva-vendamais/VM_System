@@ -1,29 +1,13 @@
 {
-  "updatedAt": 1788604801181,
+  "updatedAt": 1788721737461,
   "systems": [
     {
-      "id": "s1",
-      "name": "Agência de Marketing",
-      "url": "https://marketing-vm.vercel.app/",
-      "desc": "Campanhas, conteúdo e gestão de marketing.",
-      "icon": "megaphone",
-      "color": "#FF6B4A"
-    },
-    {
-      "id": "s2",
-      "name": "VendaMais Creative OS",
-      "url": "https://vendamais-creative-os-km3l.vercel.app/",
-      "desc": "Sistema operacional criativo da VendaMais.",
-      "icon": "palette",
-      "color": "#A855F7"
-    },
-    {
-      "id": "s3",
-      "name": "Comitê Estratégico",
-      "url": "https://diretor-estrategico-chat.vercel.app/",
-      "desc": "Chat de apoio à decisão da diretoria.",
-      "icon": "compass",
-      "color": "#5B8DEF"
+      "id": "s1784252640312",
+      "name": "Gestão de Carteira VM",
+      "url": "https://gestao-carteira-vendamais.vercel.app",
+      "desc": "BI Carteira VendaMais",
+      "icon": "chart",
+      "color": "#10B981"
     },
     {
       "id": "s4",
@@ -34,38 +18,6 @@
       "color": "#10B981"
     },
     {
-      "id": "s5",
-      "name": "Revenue Intelligence",
-      "url": "https://revenue-intelligence-vendamais.vercel.app/",
-      "desc": "Análise de receita e previsibilidade.",
-      "icon": "chart",
-      "color": "#06B6D4"
-    },
-    {
-      "id": "s6",
-      "name": "Whale Hunting",
-      "url": "https://whale-hunting-campaign-builder.vercel.app/",
-      "desc": "Prospecção de grandes contas.",
-      "icon": "target",
-      "color": "#F59E0B"
-    },
-    {
-      "id": "s7",
-      "name": "Radar AEO/GEO",
-      "url": "https://radar-geo-venda-mais.vercel.app/",
-      "desc": "Ranqueamento em buscadores e IA.",
-      "icon": "globe",
-      "color": "#EC4899"
-    },
-    {
-      "id": "s1783728173189",
-      "name": "Sistema de Solicitação para MKT",
-      "url": "https://solicitacoes.partnersvendamais.com.br/",
-      "desc": "Pedidos MKT VendaMais",
-      "icon": "megaphone",
-      "color": "#F43F5E"
-    },
-    {
       "id": "s1783824228919",
       "name": "Radar Contatos",
       "url": "https://radar-contatos.vercel.app/",
@@ -74,12 +26,28 @@
       "color": "#64748B"
     },
     {
-      "id": "s1784252640312",
-      "name": "Gestão de Carteira VM",
-      "url": "https://gestao-carteira-vendamais.vercel.app",
-      "desc": "BI Carteira VendaMais",
+      "id": "s3",
+      "name": "Comitê Estratégico",
+      "url": "https://diretor-estrategico-chat.vercel.app/",
+      "desc": "Chat de apoio à decisão da diretoria.",
+      "icon": "compass",
+      "color": "#5B8DEF"
+    },
+    {
+      "id": "s1788604786386",
+      "name": "VentureGTM OS",
+      "url": "https://venturegtm-os.vercel.app/",
+      "desc": "Go To Market",
+      "icon": "rocket",
+      "color": "#F43F5E"
+    },
+    {
+      "id": "s5",
+      "name": "Revenue Intelligence",
+      "url": "https://revenue-intelligence-vendamais.vercel.app/",
+      "desc": "Análise de receita e previsibilidade.",
       "icon": "chart",
-      "color": "#10B981"
+      "color": "#06B6D4"
     },
     {
       "id": "s1784493841267",
@@ -90,12 +58,12 @@
       "color": "#22C55E"
     },
     {
-      "id": "s1786703256656",
-      "name": "Radar de Crescimento",
-      "url": "https://radar-crescimento-comercial-cegente.vercel.app/",
-      "desc": "VM / CEGENTE",
-      "icon": "target",
-      "color": "#5B8DEF"
+      "id": "s7",
+      "name": "Radar AEO/GEO",
+      "url": "https://radar-geo-venda-mais.vercel.app/",
+      "desc": "Ranqueamento em buscadores e IA.",
+      "icon": "globe",
+      "color": "#EC4899"
     },
     {
       "id": "s1787130925425",
@@ -106,12 +74,44 @@
       "color": "#A855F7"
     },
     {
-      "id": "s1788604786386",
-      "name": "VentureGTM OS",
-      "url": "https://venturegtm-os.vercel.app/",
-      "desc": "Go To Market",
-      "icon": "rocket",
+      "id": "s2",
+      "name": "VendaMais Creative OS",
+      "url": "https://vendamais-creative-os-km3l.vercel.app/",
+      "desc": "Sistema operacional criativo da VendaMais.",
+      "icon": "palette",
+      "color": "#A855F7"
+    },
+    {
+      "id": "s1",
+      "name": "Agência de Marketing",
+      "url": "https://marketing-vm.vercel.app/",
+      "desc": "Campanhas, conteúdo e gestão de marketing.",
+      "icon": "megaphone",
+      "color": "#FF6B4A"
+    },
+    {
+      "id": "s1783728173189",
+      "name": "Sistema de Solicitação para MKT",
+      "url": "https://solicitacoes.partnersvendamais.com.br/",
+      "desc": "Pedidos MKT VendaMais",
+      "icon": "megaphone",
       "color": "#F43F5E"
+    },
+    {
+      "id": "s6",
+      "name": "Whale Hunting",
+      "url": "https://whale-hunting-campaign-builder.vercel.app/",
+      "desc": "Prospecção de grandes contas.",
+      "icon": "target",
+      "color": "#F59E0B"
+    },
+    {
+      "id": "s1786703256656",
+      "name": "Radar de Crescimento",
+      "url": "https://radar-crescimento-comercial-cegente.vercel.app/",
+      "desc": "VM / CEGENTE",
+      "icon": "target",
+      "color": "#5B8DEF"
     }
   ]
 }
