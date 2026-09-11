@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788721737461,
+  "updatedAt": 1789157122931,
   "systems": [
     {
       "id": "s1784252640312",
@@ -112,6 +112,14 @@
       "desc": "VM / CEGENTE",
       "icon": "target",
       "color": "#5B8DEF"
+    },
+    {
+      "id": "s1789157117986",
+      "name": "VendaMais Ads Intelligence",
+      "url": "https://vendamais-ads-intelligence-dbm1ffrwy.vercel.app/",
+      "desc": "Dashboard Google Ads",
+      "icon": "chart",
+      "color": "#22C55E"
     }
   ]
 }
