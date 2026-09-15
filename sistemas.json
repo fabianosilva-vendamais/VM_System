@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1789157122931,
+  "updatedAt": 1789492352139,
   "systems": [
     {
       "id": "s1784252640312",
@@ -68,7 +68,7 @@
     {
       "id": "s1787130925425",
       "name": "Sales Train Voice",
-      "url": "https://salestrain-voice.vercel.app/",
+      "url": "https://vendamais.com.br/salestrain/app/login",
       "desc": "Ferramenta de simulação de vendas",
       "icon": "megaphone",
       "color": "#A855F7"
