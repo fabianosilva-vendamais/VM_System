@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1789674966403,
+  "updatedAt": 1789914985607,
   "systems": [
     {
       "id": "s1784252640312",
@@ -32,6 +32,14 @@
       "desc": "Chat de apoio à decisão da diretoria.",
       "icon": "compass",
       "color": "#5B8DEF"
+    },
+    {
+      "id": "s1789914923107",
+      "name": "News e Postagens VM",
+      "url": "https://post-vendamais.vercel.app/",
+      "desc": "Newsletter e postagens semanais da VendaMais",
+      "icon": "megaphone",
+      "color": "#FF6B4A"
     },
     {
       "id": "s1788604786386",
