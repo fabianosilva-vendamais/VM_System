@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1789914985607,
+  "updatedAt": 1791588420310,
   "systems": [
     {
       "id": "s1784252640312",
@@ -32,6 +32,14 @@
       "desc": "Chat de apoio à decisão da diretoria.",
       "icon": "compass",
       "color": "#5B8DEF"
+    },
+    {
+      "id": "s1791588366323",
+      "name": "Radar Licitações",
+      "url": "https://radar-compras-vendamais.vercel.app/",
+      "desc": "Busca de licitações para a VM",
+      "icon": "radar",
+      "color": "#6366F1"
     },
     {
       "id": "s1789914923107",
